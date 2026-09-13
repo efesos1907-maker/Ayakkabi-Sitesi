@@ -36,28 +36,15 @@ Bu projeyi hayata geçirirken kullanılan temel teknolojiler:
 
 ---
 
-## 💻 Kurulum ve Çalıştırma
 
-Projeyi yerel bilgisayarınızda görüntülemek için:
-
-1. Bu depoyu klonlayın veya ZIP olarak indirin:
-   ```bash
-   git clone https://github.com/kullanici-adiniz/adim-adim-ayakkabi.git
-   ```
-2. Proje klasörüne gidin:
-   ```bash
-   cd adim-adim-ayakkabi
-   ```
-3. `index.html` dosyasını herhangi bir web tarayıcısında (Chrome, Edge, Firefox vb.) çift tıklayarak açın.
-
----
 
 ## 📸 Önizleme
 
 Projeye ait ekran görüntülerini buraya ekleyebilirsiniz:
+<img width="1600" height="798" alt="ayakkabı1" src="https://github.com/user-attachments/assets/e37fbf9a-1526-4955-8bc1-e05e6ceb655e" />
 
-<!-- Proje ekran görüntüleri -->
-<!-- ![Ekran Görüntüsü](images/preview.png) -->
+
+
 
 ---
 
