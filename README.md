@@ -5,8 +5,12 @@ Merhaba! Bu proje, HTML5 ve CSS3 kullanarak geliştirdiğim modern ve şık bir 
 ---
 
 ## ✨ Öne Çıkan Özellikler
+<img width="1600" height="795" alt="ayakkabı2" src="https://github.com/user-attachments/assets/1590cc17-cd2a-4ec7-8115-94470d19b7e4" />
+<img width="1600" height="777" alt="ayakkabı3" src="https://github.com/user-attachments/assets/ace1cd36-11f1-4036-95a5-2d4e975fee5b" />
+<img width="1600" height="795" alt="ayakkabı2" src="https://github.com/user-attachments/assets/b8f0a441-75a6-4951-b905-3cbf1c9a544f" />
+<img width="1600" height="777" alt="ayakkabı3" src="https://github.com/user-attachments/assets/291e92f3-d696-4fda-b2fa-eac49e5ab0c8" />
+<img width="1600" height="795" alt="ayakkabı2" src="https://github.com/user-attachments/assets/962e3db9-7e52-4c80-8c6b-e054aed08436" />
 
-Bu projede aşağıdaki özellikleri bulabilirsiniz:
 
 - **🏠 Şık & Modern Header Alanı**
   - Markaya özel tasarlanmış şeffaf vektör logo (`Adım Adım Ayakkabı`).
@@ -40,8 +44,11 @@ Bu projeyi hayata geçirirken kullanılan temel teknolojiler:
 
 ## 📸 Önizleme
 
-Projeye ait ekran görüntülerini buraya ekleyebilirsiniz:
 <img width="1600" height="798" alt="ayakkabı1" src="https://github.com/user-attachments/assets/e37fbf9a-1526-4955-8bc1-e05e6ceb655e" />
+
+<img width="1600" height="795" alt="ayakkabı2" src="https://github.com/user-attachments/assets/eed9e08b-06a0-42db-bd87-f7d58403d39c" />
+
+<img width="1600" height="777" alt="ayakkabı3" src="https://github.com/user-attachments/assets/66da92aa-0128-4751-b6fb-ee696b86f727" />
 
 
 
